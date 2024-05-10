@@ -32,7 +32,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://www.youtube.com/watch?v=rilZp60VhF0)
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
   [AnteProyecto](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94),
-  [GitHub](https://github.com/Solanodecoin/TFG-Leonardo)
+  [GitHub](https://github.com/Solanodecoin/TFG-Leonardo),
   [Video CheckPoint](https://youtu.be/L6HLDxgcILw)
   
   
