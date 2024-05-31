@@ -31,26 +31,24 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable.git)
     - [Checkpoint](https://www.youtube.com/watch?v=rilZp60VhF0)
 * **GRUPO 04: Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
-  [AnteProyecto](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94),
-  [GitHub](https://github.com/Solanodecoin/TFG-Leonardo),
-  [Video CheckPoint](https://youtu.be/L6HLDxgcILw)
-  
-  
+    - [AnteProyecto](https://plume-sundae-4ce.notion.site/ANTE-PROYECTO-ASIR-Leonardo-914f458ce785455998c3d45a94b53a94)
+    - [GitHub](https://github.com/Solanodecoin/TFG-Leonardo)
+    - [Video CheckPoint](https://youtu.be/L6HLDxgcILw)
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
-    - Anteproyecto: https://prairie-milk-41d.notion.site/Anteproyecto-Sledge-Security-1d8ee65046614554a04f462745c80449
-
+    - [Anteproyecto](https://prairie-milk-41d.notion.site/Anteproyecto-Sledge-Security-1d8ee65046614554a04f462745c80449)
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
-[Anteproyecto](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
-[Video Chekpoint](https://youtu.be/Ly7T2SbtHNE)
+    - [Anteproyecto](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
+    - [Video Chekpoint](https://youtu.be/Ly7T2SbtHNE)
 * **GRUPO 07: 40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
-      - [Anteproyecto](https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3)
-      - [Video CheckPoint](https://youtu.be/A-Q4L9_P5ZQ)
+    - [Anteproyecto](https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3)
+    - [Video CheckPoint](https://youtu.be/A-Q4L9_P5ZQ)
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
      - [Anteproyecto](https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4)
      - [Repositorio Github](https://github.com/PabloTellez/VirtualMox)
      - [CheckPoint](https://www.youtube.com/watch?v=PESyfFSrSUM)
 * **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
-      - Anteproyecto: https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857 [CheckPoint](https://youtu.be/xPdBTSo2AUs)
+    - [Anteproyecto](https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857)
+    - [CheckPoint](https://youtu.be/xPdBTSo2AUs)
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **5 de abril de 2024**
@@ -61,6 +59,18 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 ## ⏰ Cuadrante horario de las exposiciones
 
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
+
+#### :calendar: lunes 17 de junio de 2024
+
+- [ ] 08:30h **Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
+- [ ] 08:50h **Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
+- [ ] 09:10h **40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
+- [ ] 09:30h **Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
+- [ ] 09:50h **Moodle y alta disponibilidad** - Javier Rodríguez Fernández
+- [ ] 10:10h **Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
+- [ ] 10:30h **VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
+- [ ] 10:50h **Conjunto ASIR** - Jesús Nicolás López Fernández
+- [ ] 11:10h **SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
 
 ---
 
