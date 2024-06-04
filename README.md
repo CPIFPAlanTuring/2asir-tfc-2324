@@ -37,6 +37,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 05: SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
     - [Anteproyecto](https://prairie-milk-41d.notion.site/Anteproyecto-Sledge-Security-1d8ee65046614554a04f462745c80449)
     - [Repositorio del proyecto](https://github.com/luismimd10/SledgeSecurity)
+    - [Video Checkpoint](https://youtu.be/CTjzCZpz3cc)
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
     - [Anteproyecto](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
     - [Video Chekpoint](https://youtu.be/Ly7T2SbtHNE)
