@@ -64,12 +64,12 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 #### :calendar: lunes 17 de junio de 2024
 
-- [ ] 08:30h **Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
+- [ ] 08:30h **Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
 - [ ] 08:50h **Procesamiento de datos IoT escalable** - Amanda Benítez Hidalgo
 - [ ] 09:10h **40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
 - [ ] 09:30h **SledgeSecurity** - Luis Miguel Miras Díaz y Rafael Jiménez Burgos
 - [ ] 09:50h **Moodle y alta disponibilidad** - Javier Rodríguez Fernández
-- [ ] 10:10h **Servicio Virtualizacion Web (Leonardo)** - Leandro Morales Aranda y Pablo Solano Colorado
+- [ ] 10:10h **Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
 - [ ] 10:30h **VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
 - [ ] 10:50h **Conjunto ASIR** - Jesús Nicolás López Fernández
 - [ ] 11:10h **Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
