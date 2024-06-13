@@ -46,7 +46,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 07: 40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
     - [Anteproyecto](https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3)
     - [Video CheckPoint](https://youtu.be/A-Q4L9_P5ZQ)
-    - [Github] (https://github.com/MikelArias/TFC40ASIRPALES)
+    - [Github](https://github.com/MikelArias/TFC40ASIRPALES)
 * **GRUPO 08: VirtualMox** - Jesús Manuel Arcos Martos y Pablo Téllez del Saz
      - [Anteproyecto](https://superficial-gladiolus-0fa.notion.site/Anteproyecto-VirtualMox-2ee74c28291a4ff5ba3b30127b8b4f49?pvs=4)
      - [Repositorio Github](https://github.com/PabloTellez/VirtualMox)
