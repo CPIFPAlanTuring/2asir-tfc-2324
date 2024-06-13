@@ -41,6 +41,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
     - [Anteproyecto](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
     - [Video Chekpoint](https://youtu.be/Ly7T2SbtHNE)
+    - [ConjuntoASIR](https://drive.google.com/drive/folders/1sIQfyvvL74B5Hbbn4sTijKK_Y-RMcNwq?usp=sharing)
 * **GRUPO 07: 40 Asirpales** - Mikel Arias Montiel y Adrián Suárez Medina
     - [Anteproyecto](https://eastern-cardamom-704.notion.site/d060e451dff34360b78049b33f75a7a4?v=0a68095ac3884ad697580c149b8136a3)
     - [Video CheckPoint](https://youtu.be/A-Q4L9_P5ZQ)
