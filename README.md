@@ -54,6 +54,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * **GRUPO 09: Plataforma Integral de Gestión de Proyectos (Innovation Pro)** - Luis García Villena
     - [Anteproyecto](https://ripple-order-4f8.notion.site/Anteproyecto-Innovation-Pro-a403276c3c9f4916a5c685f27755f857)
     - [CheckPoint](https://youtu.be/xPdBTSo2AUs)
+    - [Repositorio Github](https://github.com/LuisGarciaVillena/Plataforma-Integral-de-Gestion-de-Proyectos_Luis-Garcia-Villena)
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **5 de abril de 2024**
