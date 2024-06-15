@@ -80,6 +80,20 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 - [ ] 11:10h **Plataforma de gestion de centros docentes privados (Dokkaebi)** - Iván Cortés Robles y Julián Andrés Pérez Olaechea
 
 ---
+## Guía para la presentación - apartados de la presentación
+
+* 0. Presentación
+* 1. Nombre del proyecto
+* 2. Objetivos del proyecto
+* 3. Tecnologías utilizadas
+* 4. Justificación de las tecnologías (en caso de que no sean las propuestas en la wiki de proyecto)
+* 5. Reparto de tareas (si es un grupo)
+* 6. Breve demostración de uso.
+* 7. Dificultades encontradas
+* 8. Posibles mejoras
+* 9. Conclusión
+
+---
 
 ## :school: Lugar de las exposiciones
 
