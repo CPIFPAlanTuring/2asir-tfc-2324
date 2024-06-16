@@ -40,6 +40,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Anteproyecto](https://prairie-milk-41d.notion.site/Anteproyecto-Sledge-Security-1d8ee65046614554a04f462745c80449)
     - [Repositorio del proyecto](https://github.com/luismimd10/SledgeSecurity)
     - [Video Checkpoint](https://youtu.be/CTjzCZpz3cc)
+    - [Video final](https://youtu.be/rcl0OyXX8Us)
 * **GRUPO 06: Conjunto ASIR** - Jesús Nicolás López Fernández
     - [Anteproyecto](https://www.notion.so/Conjunto-ASIR-caec12c17a0b44fca4e1f98ab16b5b0f?pvs=4)
     - [Video Chekpoint](https://youtu.be/Ly7T2SbtHNE)
